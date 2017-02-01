@@ -1,7 +1,7 @@
 gr
 gre
 grgr
-THERE IS NEW LINE
+Bug #1 is fixed
 ry
 jer
 h654
